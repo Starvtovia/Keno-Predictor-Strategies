@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\8\\Keno\\Keno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Keno-Bot-Casino\\Keno-Bot-Casino.csproj|d:\\githubnew\\8\\keno\\keno\\keno-bot-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|Keno-Bot-Casino\\Keno-Bot-Casino.csproj|solutionrelative:keno-bot-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\8\\Keno\\Keno\\Keno-Bot-Casino\\Form1.cs",
+              "RelativeDocumentMoniker": "Keno-Bot-Casino\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\8\\Keno\\Keno\\Keno-Bot-Casino\\Form1.cs [Design]",
+              "RelativeToolTip": "Keno-Bot-Casino\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:12:59.565Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
